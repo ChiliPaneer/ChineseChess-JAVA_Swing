@@ -31,6 +31,8 @@ To run the game, simply download the jar file, and use the command java -jar hwx
 7. If you wish to end the game early, click on the End Game button.
 8. To play again, exit the game and repeast steps 2 through 7.
 
+![Start Menu Screenshot](/screenshots/startmenu.png)
+![Gaemplay Screenshot](/screenshots/gameplay.png)
 ## Roles
 Michael handled most of the GUI stuff in game, Venkat handled most of the game logic stuff, and Andy handled most of the bonus feature stuff. We mostly focused on our individual parts but communicated a lot to make sure everything would be easily compatible. 
 
